@@ -1,25 +1,34 @@
-## 🙋🏻‍♀️ Introducing Myself
+## 🙋🏾‍♂️ Introducing Myself  
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
+![LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
 
-Hello, I'm Katie. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
+![LinkedIn Banner](https://github.com/EmmanuelOyemosu/EmmanuelOyemosu/assets/YOUR_ASSET_ID/your-image-name.png)
 
-- Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
-- Data analysis and reporting using Google Sheets and Excel.
+Hey, I’m Emmanuel Oyemosu — a Data Analyst with a strong foundation in data analysis, reporting, and building efficient data systems. I specialize in transforming raw data into meaningful insights that support smarter business decisions.
 
-### 📚 Projects
+- Writing efficient queries and extracting insights using SQL  
+- Building reports and performing in-depth ad-hoc analysis  
+- Creating interactive dashboards with Tableau and Looker Studio  
+- Analyzing and reporting data using Excel and Google Sheets  
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+---
 
-### 🛠️ Tools
+### 📚 Projects  
 
-- Language: SQL, Python
-- Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Looker Studio
+Welcome to my portfolio, where I showcase some of the projects I’ve worked on:  
+👉 [View My Projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md)
 
-### 👋🏻 Connect with Me
+---
 
-- [Linkedin](https://www.linkedin.com/in/katiehuangx/)
-- Hire me on [Upwork](https://www.upwork.com/freelancers/~016ea4ffe7d7d64c1d)
+### 🛠️ Tools  
+
+- **Languages:** SQL, Python  
+- **Databases:** Google BigQuery, PostgreSQL, MySQL  
+- **Visualization:** Tableau, Looker Studio  
+
+---
+
+### 👋🏾 Let’s Connect  
+
+- [LinkedIn](https://www.linkedin.com/in/katiehuangx/)  
+- Available for work on [Upwork](https://www.upwork.com/freelancers/~016ea4ffe7d7d64c1d)  
