@@ -1,6 +1,4 @@
-## 🙋🏾‍♂️ Introducing Myself  
-
-### ![LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
+## 🙋🏾‍♂️ Introducing Myself
 
 Hey, I’m Emmanuel Oyemosu — a Data Analyst with a strong foundation in data analysis, reporting, and building efficient data systems. I specialize in transforming raw data into meaningful insights that support smarter business decisions.
 
