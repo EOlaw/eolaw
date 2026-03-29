@@ -1,6 +1,8 @@
 ## 🙋🏾‍♂️ Introducing Myself  
 
-![LinkedIn Banner](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80)
+### ![LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
+
+### ![LinkedIn Banner](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80)
 
 ### ![LinkedIn Banner](https://github.com/EmmanuelOyemosu/EmmanuelOyemosu/assets/YOUR_ASSET_ID/your-image-name.png)
 
