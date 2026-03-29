@@ -2,10 +2,6 @@
 
 ### ![LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
 
-### ![LinkedIn Banner](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80)
-
-### ![LinkedIn Banner](https://github.com/EmmanuelOyemosu/EmmanuelOyemosu/assets/YOUR_ASSET_ID/your-image-name.png)
-
 Hey, I’m Emmanuel Oyemosu — a Data Analyst with a strong foundation in data analysis, reporting, and building efficient data systems. I specialize in transforming raw data into meaningful insights that support smarter business decisions.
 
 - Writing efficient queries and extracting insights using SQL  
