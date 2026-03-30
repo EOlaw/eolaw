@@ -1,6 +1,6 @@
 ## 🙋🏾‍♂️ Introducing Myself
 
-![Emmanuel Oyemosu](./emmanuel-profile.jpeg)
+![Emmanuel Oyemosu](./1557903556207.jpeg)
 
 Hey, I’m Emmanuel Oyemosu — a Data Scientist / Data Engineer with a M.S. in Management Information Systems and B.S. in Mathematics. I bring deep quantitative foundations to end-to-end data platforms, analytics pipelines, and production-grade machine learning systems.
 
