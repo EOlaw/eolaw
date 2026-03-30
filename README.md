@@ -12,7 +12,7 @@ Hey, I’m Emmanuel Oyemosu — a Data Analyst with a strong foundation in data 
 ### 📚 Projects  
 
 Welcome to my portfolio, where I showcase some of the projects I’ve worked on:  
-👉 [View My Projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md)
+👉 [View My Projects](https://github.com/EOlaw/eolaw.github.io/blob/main/portfolio/index.html)
 
 ---
 
