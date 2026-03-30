@@ -1,6 +1,6 @@
 ## 🙋🏾‍♂️ Introducing Myself
 
-Hey, I’m Emmanuel Oyemosu — a Data Scientist / Data Engineer with a B.S. and M.S. in Mathematics. I bring deep quantitative foundations to end-to-end data platforms, analytics pipelines, and production-grade machine learning systems.
+Hey, I’m Emmanuel Oyemosu — a Data Scientist / Data Engineer with a M.S. in Management Information Systems and B.S. in Mathematics. I bring deep quantitative foundations to end-to-end data platforms, analytics pipelines, and production-grade machine learning systems.
 
 - Building scalable data engineering solutions in Python, SQL, and cloud data warehouses
 - Designing and deploying predictive modeling workflows with strong statistical rigor
