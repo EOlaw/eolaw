@@ -41,14 +41,14 @@ Welcome to my portfolio, where I showcase some of the projects I’ve worked on:
 
 ### 🧠 Core Competencies / Technical Proficiencies
 
-- Machine Learning & Modeling: supervised/unsupervised learning, deep learning, predictive modeling, time series forecasting, feature engineering, validation, hyperparameter optimization, cross-validation, performance evaluation
-- Statistical & Analytical Methods: regression, classification, clustering, time series analysis, econometrics, optimization modeling, hypothesis testing, A/B testing, experiment design, explainable AI (SHAP, LIME), Bayesian analysis
-- ML Frameworks & Libraries: Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, LightGBM, Pandas, NumPy, SciPy, Statsmodels, Hugging Face
-- Data Engineering & ETL: pipeline development, data integration, transformation, processing workflows, data quality validation, feature store design
-- MLOps: model monitoring, drift detection, scalable serving, lifecycle management, containerization, reproducible pipelines
-- Cloud & Big Data: AWS, Azure, Databricks, Spark, PySpark, Hadoop
-- Geospatial Analytics: GIS mapping, spatial statistics, geospatial data processing, spatial feature engineering, ArcGIS Pro
-- Soft Skills: leadership & mentorship, stakeholder communication, cross-functional collaboration, problem-solving, strategic thinking, agile delivery, data storytelling
+- **Machine Learning & Modeling:** supervised/unsupervised learning, deep learning, predictive modeling, time series forecasting, feature engineering, validation, hyperparameter optimization, cross-validation, performance evaluation
+- **Statistical & Analytical Methods:** regression, classification, clustering, time series analysis, econometrics, optimization modeling, hypothesis testing, A/B testing, experiment design, explainable AI (SHAP, LIME), Bayesian analysis
+- **ML Frameworks & Libraries:** Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, LightGBM, Pandas, NumPy, SciPy, Statsmodels, Hugging Face
+- **Data Engineering & ETL:** pipeline development, data integration, transformation, processing workflows, data quality validation, feature store design
+- **MLOps:** model monitoring, drift detection, scalable serving, lifecycle management, containerization, reproducible pipelines
+- **Cloud & Big Data:** AWS, Azure, Databricks, Spark, PySpark, Hadoop
+- **Geospatial Analytics:** GIS mapping, spatial statistics, geospatial data processing, spatial feature engineering, ArcGIS Pro
+- **Soft Skills:** leadership & mentorship, stakeholder communication, cross-functional collaboration, problem-solving, strategic thinking, agile delivery, data storytelling
 
 ---
 
