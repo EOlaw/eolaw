@@ -11,17 +11,17 @@ Hey, I’m Emmanuel Oyemosu — a Data Scientist / Data Engineer with a M.S. in 
 
 ---
 
-### Leadership & Publications
+### Selected Work & Recognition
 
-- 5+ years leading analytics and data engineering initiatives, mentoring junior analysts/data engineers, and defining best practices for data quality, observability, and ETL/ELT transformation.
-- Delivered technical leadership in production ML and big data projects, including requirements gathering, architecture design, prioritization, and stakeholder communication.
-- Coached teams on version-controlled analytics, CI/CD data pipelines, and reproducible experimentation.
+- **NASA Marshall Space Flight Center (Office of the CIO, 2022–2023):** Built statistical models and reporting frameworks for mission-critical federal programs. Designed data governance standards adopted across enterprise systems.
+- **Commvault (Enterprise Analytics, 2023–2024):** Architected real-time analytics platforms processing 100K+ records, cutting engineering debugging time by 40% and processing execution time by 90%.
+- **Texas Southern University (M.S. MIS, 2024–2025):** Graduated with 3.97 GPA, top of program. Data Analytics Graduate Certification.
+- **InsightSerenity Consultancy (founder, ongoing):** Building an autonomous AI platform from scratch in pure Python — neural networks, transformer architectures, RL agents, policy-engine governance. Multi-client deployment in development.
 
-Publications & Knowledge Sharing
+### Knowledge Sharing
 
-- "Mathematics of Machine Learning" (in progress): Authoring a practical reference that unifies linear algebra, calculus, probability, and optimization for data scientists and engineers.
-- Open-source contributions on GitHub (github.com/EOlaw): code, notebooks, and reusable components for scalable data workflows.
-- Kaggle engagement and community collaboration: challenge solutions, notebooks, and peer-driven learning in applied ML.
+- Open-source projects on GitHub (see pinned repositories below).
+- Building a working reference on the mathematical foundations of ML, published as code + documentation in the [`math-of-ml`](#) repository.
 
 ---
 
