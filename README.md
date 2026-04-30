@@ -1,13 +1,19 @@
 ## 🙋🏾‍♂️ Introducing Myself
 
-![Emmanuel Oyemosu](./1557903556207.jpeg)
+[![Emmanuel Oyemosu](https://github.com/EOlaw/eolaw/raw/main/1557903556207.jpeg)](/EOlaw/eolaw/blob/main/1557903556207.jpeg)
 
-Hey, I’m Emmanuel Oyemosu — a Data Scientist / Data Engineer with a M.S. in Management Information Systems and B.S. in Mathematics. I bring deep quantitative foundations to end-to-end data platforms, analytics pipelines, and production-grade machine learning systems.
+I build data systems where the math is rigorous and the deployment is real.
 
-- Building scalable data engineering solutions in Python, SQL, and cloud data warehouses
-- Designing and deploying predictive modeling workflows with strong statistical rigor
-- Turning business questions into data-driven insights and operational decision support
-- Collaborating with cross-functional teams on analytics, governance, and MLOps
+**Background:** M.S. in Management Information Systems (3.97 GPA, top of program) and B.S. in Mathematics from Texas Southern University. Two years across NASA Marshall Space Flight Center and Commvault, where I shipped real-time analytics platforms processing 100K+ records and cut engineering debugging time by 40%.
+
+**Currently building:** [InsightSerenity](https://www.insightserenity.com) — an autonomous AI platform written from scratch in pure Python. Neural networks, transformer architectures, RL agents, and an opinionated policy engine.
+
+**What I'm focused on right now:**
+- A production-grade end-to-end data engineering pipeline using BigQuery, Airflow, and dbt
+- Polished from-scratch ML implementations (no PyTorch, no scikit-learn — I want to understand the internals)
+- Writing about the mathematics behind the algorithms most data practitioners use as black boxes
+
+See pinned repositories below for current work.
 
 ---
 
