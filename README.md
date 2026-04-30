@@ -56,5 +56,5 @@ Welcome to my portfolio, where I showcase some of the projects I’ve worked on:
 
 ### 👋🏾 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/katiehuangx/)  
+- [LinkedIn](linkedin.com/in/emmanuel-oyemosu/)  
 - Available for work on [Upwork](https://www.upwork.com/freelancers/~016ea4ffe7d7d64c1d)  
